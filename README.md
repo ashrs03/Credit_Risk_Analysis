@@ -63,4 +63,4 @@ Accuracy- 0.93
 
 ## Summary
 Based on the results the Easy Ensemble AdaBoost Classifier has the best accuracy at 0.93 and is the best model in terms of accuracy. The precision of all the models were comparable and were low for high risk loan status and at 1.0 for the low_risk loan status. In terms of recalls too, when the value is closer to 1 that makes it a better model and with the high_risk/ low_risk recall values at 0.91 | 0.94 respectively for the Easy Ensemble AdaBoost classifier, this is again better than other models for recall. Overall the Easy Ensemble AdaBoost classifier should be chosen as the model for further credit risk analysis. 
-There is a recommendation on which model to use, or there is no recommendation with a justification 
+
